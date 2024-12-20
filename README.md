@@ -2,7 +2,7 @@
 - 👀 I’m interested in scripting automation and tool making, also 3D Printing.
 - 🌱 I’m currently learning Klipper firmware on my Ender5.
 - 💞️ I’m looking to collaborate on anything I can help with.
-- 📫 How to reach me?  On [Threads]([https://twitter.com/tomohulk](https://www.threads.net/@tomohulk)) is probobly the best.
+- 📫 How to reach me?  On [Threads]([https://www.threads.net/@tomohulk] is probobly the easiest.
 
 Blerg:
 https://tomohulk.github.io
